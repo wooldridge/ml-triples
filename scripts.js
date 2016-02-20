@@ -1,5 +1,5 @@
 // After loading the sample documents with setup.js, you can run the
-// followering sample scripts in Query Console (http://localhost:8000/qconsole)
+// following sample scripts in Query Console (http://localhost:8000/qconsole)
 
 // Get all tweets containing a term, ordered by creation date
 
