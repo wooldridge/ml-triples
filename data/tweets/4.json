@@ -1,0 +1,11 @@
+{
+  "id": "http://example.org/tweets/4.json",
+  "content": "I do not fear computers. I fear the lack of them.",
+  "created": "2012-01-01T08:00:00",
+  "triple": {
+    "subject": "http://example.org/users/b.json",
+    "predicate": "http://example.org/tweeted",
+    "object": "http://example.org/tweets/4.json"
+  }
+}
+

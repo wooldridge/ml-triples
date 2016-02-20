@@ -1,0 +1,11 @@
+{
+  "id": "http://example.org/users/a.json",
+  "name": "Aaron",
+  "created": "2010-01-01T00:00:00",
+  "triple": {
+    "subject": "http://example.org/users/a.json",
+    "predicate": "http://example.org/follows",
+    "object": "http://example.org/users/b.json"
+  }
+}
+
